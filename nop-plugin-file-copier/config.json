@@ -1,0 +1,22 @@
+[
+{
+"From" : "C:\\Projects\\Ink\\v410\\Plugins\\Aperture.Nop.Plugin.IttpCore",
+"To" : "C:\\Projects\\Ink\\v410\\Presentation\\Nop.Web\\Plugins\\Aperture.IttpCore"
+
+}
+,{
+"From" : "C:\\Projects\\Ink\\v410\\Plugins\\Aperture.Nop.Plugin.QuickView",
+"To" : "C:\\Projects\\Ink\\v410\\Presentation\\Nop.Web\\Plugins\\Aperture.QuickView"
+
+},
+{
+"From" : "C:\\Projects\\Ink\\v410\\Plugins\\Nop.Plugin.Checkout.Preferred",
+"To" : "C:\\Projects\\Ink\\v410\\Presentation\\Nop.Web\\Plugins\\Checkout.Preferred"
+
+},
+{
+"From" : "C:\\Projects\\Ink\\v410\\Plugins\\Nop.Plugin.Payments.CardConnect",
+"To" : "C:\\Projects\\Ink\\v410\\Presentation\\Nop.Web\\Plugins\\Payments.CardConnect"
+
+}
+]
